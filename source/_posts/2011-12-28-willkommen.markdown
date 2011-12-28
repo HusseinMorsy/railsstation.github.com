@@ -9,3 +9,5 @@ Zum Anlass des Erscheinens unseres neuen Buchs – Ruby on Rails 3.1 –
 möchten wir auf diesem Blog nicht nur unsere Leser, sondern auch alle
 Interessierten über aktuelle Themen aus der Rails-Welt informieren.
 
+Wir freuen uns auf den Kontakt mit Ihnen! Fragen, Lob oder Anregungen? Wir haben für alles ein offenes Ohr und wünschen uns einen regen Austausch.
+
