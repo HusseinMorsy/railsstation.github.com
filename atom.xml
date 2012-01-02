@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Rails Station]]></title>
+  <link href="http://railsstation.github.com/atom.xml" rel="self"/>
+  <link href="http://railsstation.github.com/"/>
+  <updated>2012-01-02T20:07:09+01:00</updated>
+  <id>http://railsstation.github.com/</id>
+  <author>
+    <name><![CDATA[Hussein Morsy &amp; Tanja Otto]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Neues Rails Buch im Handel]]></title>
+    <link href="http://railsstation.github.com/blog/2011/12/28/rails-buch-im-handel/"/>
+    <updated>2011-12-28T18:21:00+01:00</updated>
+    <id>http://railsstation.github.com/blog/2011/12/28/rails-buch-im-handel</id>
+    <content type="html"><![CDATA[<p><img src="http://railsstation.github.com/images/railsbuch3-cover.png" style="float: left"/>
+Am 28.12.2011 ist unser neues <a href="http://railsstation.github.com/buch">Entwickler Handbuch zu Rails 3.1</a> in den Handel gekommen. Es hat zwar ein bisschen länger gedauert, bis unser Buch erschienen ist, dafür enthält es aber alle grossen Änderungen und Neuerungen in Rails 3.1. Es war uns ein großes anliegen dem Leser zu Zeige</p>
+
+<p>Wir alle können uns noch erinnern, als Rails 3 im Dezember 2008 angekündigt wurde. Was für ein Tag. Das es etwas grosses werden würde war allen klar. Schliesslich sollte Rails 3 der Zusammenschluss von Rails und Merb werden. 2 Jahre später, im August 2010 war es dann soweit: Rails 3.0 war fertig!</p>
+
+<p>Im Sommer 2001 kam Rails 3.1. Wir haben mit unserem Buch darauf gewartet, weil wir auf die Asset Pipeline nicht verzichten wollten.</p>
+
+<p>Rails 3, das bedeutet im wesentlichen die Entkopplung der Kernkomponenten, die Anpassung des Query-Interfaces von ActiveRecord und die Gem-Verwaltung mit Bundler. Und die Asset Pipeline in Rails 3.1 ist das Tüpfelchen auf dem i.</p>
+
+<p><img src="http://railsstation.github.com/images/railsbuch2-cover.png" style="float: left"/>
+Die 1. Auflage zu Rails 2.0 ist am 28. März 2008 erschienen. Rails 2 brachte hunderte von Neuerungen. Ein großes Thema war u.a. die Umstellung von SOAP auf den REST-Standard. Damals gab es jedoch z.B.
+noch kein Bundler zum managen der Gems und Ruby 1.8.7 war noch der Standard. Statt Git wurde noch SVN verwendet.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Willkommen]]></title>
+    <link href="http://railsstation.github.com/blog/2011/12/28/willkommen/"/>
+    <updated>2011-12-28T14:32:00+01:00</updated>
+    <id>http://railsstation.github.com/blog/2011/12/28/willkommen</id>
+    <content type="html"><![CDATA[<p>Zum Anlass des Erscheinens unseres neuen Buchs – Ruby on Rails 3.1 –
+möchten wir auf diesem Blog nicht nur unsere Leser, sondern auch alle
+Interessierten über aktuelle Themen aus der Rails-Welt informieren.</p>
+
+<p>Wir freuen uns auf den Kontakt mit Ihnen! Fragen, Lob oder Anregungen? Wir haben für alles ein offenes Ohr und wünschen uns einen regen Austausch.</p>
+]]></content>
+  </entry>
+  
+</feed>
